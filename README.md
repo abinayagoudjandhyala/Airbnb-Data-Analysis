@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of Airbnb listing data to uncover trends in pricing, availability, and other key factors. Using Tableau for visualization, the project explores the Airbnb rental market, highlighting patterns based on geographic location, room types, and pricing variations.
 
 ## Project Files
-- **AirbnbProject.pptx**: PowerPoint presentation summarizing the main insights from the analysis.
+- **AIRBNB PROJECT.pptx**: PowerPoint presentation summarizing the main insights from the analysis.
 - **Tableau Full Project.xlsx**: Excel file containing the Airbnb dataset used for visualization.
 - **TableauProject.twbx**: Tableau workbook for creating and exploring interactive visualizations.
 
@@ -24,7 +24,7 @@ The main objectives of this analysis are to:
 ## Setup and Usage
 To interact with the project and explore the data:
 - Open **TableauProject.twbx**: Use Tableau Desktop to open the file and explore the visualizations.
-- Review the Presentation: Open **AirbnbProject.pptx** to see summarized findings.
+- Review the Presentation: Open **AIRBNB PROJECT.pptx** to see summarized findings.
 
 ## Future Enhancements
 Potential future improvements include:
